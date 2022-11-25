@@ -1,0 +1,35 @@
+
+    
+#nav{
+    
+    background-image: linear-gradient(to top, rgb(0,0,0),rgb(255,255,255));
+}
+
+table{
+    border-radius: 5px;
+    border:1px solid black ;
+    border-spacing:2px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(116, 103, 42)) ;
+
+}
+#username{
+    width: 70%;
+}
+#email{
+    width:70%
+
+}
+
+#textbox{
+    height: 200px;
+    width: 200px;
+}
+#email{
+    margin-left:2px
+}
+.navbottom{
+    text-decoration: none;
+}
